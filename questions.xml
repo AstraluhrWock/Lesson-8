@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Question>
+    <Text>#1 Земля круглая?</Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>#2 Трава голубая?</Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>#3 Рыбы летают?</Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>#4</Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+</ArrayOfQuestion>
