@@ -1,4 +1,4 @@
-﻿/* Любовь Соколова*/ 
+﻿/* Любовь Соколова */ 
 
 using System;
 using System.Collections.Generic;

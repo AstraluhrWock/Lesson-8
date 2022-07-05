@@ -13,7 +13,7 @@
     <TrueFalse>false</TrueFalse>
   </Question>
   <Question>
-    <Text>#4</Text>
+    <Text>#4 Вода превращается в лед при температуре 0 градусов?</Text>
     <TrueFalse>true</TrueFalse>
   </Question>
 </ArrayOfQuestion>
